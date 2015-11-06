@@ -1,0 +1,11 @@
+{
+    "Sample USA TODAY BookLists API Offerings": {
+        "All bookLists from 2010 (LOTS of data)": "http://api.usatoday.com/open/bestsellers/books/2010?api_key=87hbdv2vyuuwm9cjrxhe3hqt",
+        "BookList from June 24, 2010": "http://api.usatoday.com/open/bestsellers/books/2010/6/24?api_key=87hbdv2vyuuwm9cjrxhe3hqt",
+        "Categories": "http://api.usatoday.com/open/bestsellers/books/Categories?api_key=87hbdv2vyuuwm9cjrxhe3hqt",
+        "Classes": "http://api.usatoday.com/open/bestsellers/books/Classes?api_key=87hbdv2vyuuwm9cjrxhe3hqt",
+        "Dates": "http://api.usatoday.com/open/bestsellers/books/Dates?api_key=87hbdv2vyuuwm9cjrxhe3hqt",
+        "The most recent available booklist (if open API, returns last week’s list)": "http://api.usatoday.com/open/bestsellers/books/ThisWeek?api_key=87hbdv2vyuuwm9cjrxhe3hqt",
+        "Titles": "http://api.usatoday.com/open/bestsellers/books/Titles?api_key=87hbdv2vyuuwm9cjrxhe3hqt"
+    }
+}
